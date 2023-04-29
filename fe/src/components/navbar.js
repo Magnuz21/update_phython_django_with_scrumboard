@@ -3,7 +3,7 @@ import userModel from "@/model/userModel";
 import { useRouter } from "next/router";
 import { useState, useEffect } from "react";
 
-//This is for the number 5 exercise//
+
 
 export default function Navbar() {
     const router = useRouter();
